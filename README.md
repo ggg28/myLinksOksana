@@ -1,3 +1,3 @@
 # myLinksOksana
 links
-// my links
+// my links collection
